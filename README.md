@@ -24,7 +24,8 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/your-repository.git
-cd your-repository```
+cd your-repository
+```
 
 ### License
 This enhanced README file is structured with anchors that make navigating through the document straightforward and user-friendly. Just save this as `README.md` in your project directory. Adjust the placeholders to fit your actual project details before publishing.
